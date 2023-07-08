@@ -3,7 +3,7 @@
 git clone https://github.com/Rahullslam/Tutul-Bypass
 
 2)
-cdTutul-Bypass
+cd Tutul-Bypass
 
 3)
 python Fuck.py
